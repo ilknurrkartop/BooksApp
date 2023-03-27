@@ -22,19 +22,10 @@ namespace BooksApp.Data.Concrete.EfCore.Config
             builder.Property(x => x.Url).IsRequired().HasMaxLength(500);
 
             builder.HasData(
-                new Image { Id = 1, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "1.jpg", BookId = 1 },
-                new Image { Id = 2, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "2.jpg", BookId = 2 },
-                new Image { Id = 3, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "3.jpg", BookId = 3 },
-                new Image { Id = 4, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "4.jpg", BookId = 4 },
-                new Image { Id = 5, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "5.jpg", BookId = 5 },
-                new Image { Id = 6, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "6.jpg", BookId = 6 },
-                new Image { Id = 7, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "7.jpg", BookId = 7 },
-                new Image { Id = 8, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "8.jpg", BookId = 8 },
-                new Image { Id = 9, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "9.jpg", BookId = 9 },
-                new Image { Id = 10, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "10.jpg", BookId = 10 },
-                new Image { Id = 11, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "11.jpg", BookId = 11 },
-                new Image { Id = 12, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "12.jpg", BookId = 12 },
-                new Image { Id = 13, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "222.jpg", BookId = 1 }
+               new Image { Id = 1, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "tarcinin-kaybolan-havuclari.jpg", BookId = 1 },
+                new Image { Id = 2, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "bir-milyon-opucuk.jpg", BookId = 2 },
+                new Image { Id = 3, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "bilissel-davranisci-terapi-temel-ilkeler-ve-uygulama.jpg", BookId = 3 },
+                new Image { Id = 4, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Url = "kadin-haklarinin-gerekcelendirilmesi.jpg", BookId = 4 }
 
                 );
         }

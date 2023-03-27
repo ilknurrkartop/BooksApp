@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.MVC\\BooksApp.MVC.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.MVC\\BooksApp.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Core\\BooksApp.Core.csproj": {
+    "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Core\\BooksApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Core\\BooksApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Core\\BooksApp.Core.csproj",
         "projectName": "BooksApp.Core",
-        "projectPath": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Core\\BooksApp.Core.csproj",
-        "packagesPath": "C:\\Users\\SABAH\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Core\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Core\\BooksApp.Core.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -73,20 +73,20 @@
         }
       }
     },
-    "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Data\\BooksApp.Data.csproj": {
+    "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Data\\BooksApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Data\\BooksApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Data\\BooksApp.Data.csproj",
         "projectName": "BooksApp.Data",
-        "projectPath": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Data\\BooksApp.Data.csproj",
-        "packagesPath": "C:\\Users\\SABAH\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Data\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Data\\BooksApp.Data.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -101,8 +101,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Entity\\BooksApp.Entity.csproj": {
-                "projectPath": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Entity\\BooksApp.Entity.csproj"
+              "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Entity\\BooksApp.Entity.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Entity\\BooksApp.Entity.csproj"
               }
             }
           }
@@ -156,20 +156,20 @@
         }
       }
     },
-    "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Entity\\BooksApp.Entity.csproj": {
+    "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Entity\\BooksApp.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Entity\\BooksApp.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Entity\\BooksApp.Entity.csproj",
         "projectName": "BooksApp.Entity",
-        "projectPath": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Entity\\BooksApp.Entity.csproj",
-        "packagesPath": "C:\\Users\\SABAH\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Entity\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Entity\\BooksApp.Entity.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -215,20 +215,20 @@
         }
       }
     },
-    "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.MVC\\BooksApp.MVC.csproj": {
+    "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.MVC\\BooksApp.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.MVC\\BooksApp.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.MVC\\BooksApp.MVC.csproj",
         "projectName": "BooksApp.MVC",
-        "projectPath": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.MVC\\BooksApp.MVC.csproj",
-        "packagesPath": "C:\\Users\\SABAH\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.MVC\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.MVC\\BooksApp.MVC.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -243,11 +243,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Core\\BooksApp.Core.csproj": {
-                "projectPath": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Core\\BooksApp.Core.csproj"
+              "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Core\\BooksApp.Core.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Core\\BooksApp.Core.csproj"
               },
-              "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Data\\BooksApp.Data.csproj": {
-                "projectPath": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Data\\BooksApp.Data.csproj"
+              "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Data\\BooksApp.Data.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Data\\BooksApp.Data.csproj"
               }
             }
           }

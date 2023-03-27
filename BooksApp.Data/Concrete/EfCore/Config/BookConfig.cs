@@ -26,13 +26,10 @@ namespace BooksApp.Data.Concrete.EfCore.Config
             builder.Property(x => x.EditionNumber).IsRequired();
 
             builder.HasData(
-                new Book { Id = 1, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Zorbalığa Karşı Taktiklerim Var", Stock = 10, Price = 64, PageCount = 32, EditionYear = 2023, EditionNumber = 1, Url="zorbaliga-karsi-taktiklerim-var"}, 
-
-                new Book { Id = 1, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Bronz Kutulu", Stock = 10, Price = 92,95, PageCount = 448, EditionYear = 2023, EditionNumber = 2, Url="bronz-kutulu" },
-
-                new Book { Id = 1, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Atomik Alışkanlıklar", Stock = 10, Price = 74,25, PageCount = 352, EditionYear = 2020, EditionNumber = 1, Url="atomik-aliskanliklar" },
-
-                new Book { Id = 1, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Dakikalar İçinde Atatürk ve Dünyası", Stock = 10, Price = 31, PageCount = 416, EditionYear = 2023, EditionNumber = 1, Url="dakikalar-icinde-ataturk-ve-dunyasi" },
+               new Book { Id = 1, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Tarçın'ın Kaybolan Havuçları", Stock = 10, Price = 20, PageCount = 32, EditionYear = 2023, EditionNumber = 1, Url = "tarcinin-kaybolan-havuclari" },
+               new Book { Id = 2, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Bir Milyon Öpücük", Stock = 10, Price = 62, PageCount = 496, EditionYear = 2023, EditionNumber = 1, Url = "bir-milyon-opucuk" },
+               new Book { Id = 3, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Bilişsel Davranışçı Terapi: Temel İlkeler ve Uygulama", Stock = 10, Price = 107, PageCount = 416, EditionYear = 2018, EditionNumber = 1, Url = "bilissel-davranisci-terapi-temel-ilkeler-ve-uygulama" },
+                new Book { Id = 4, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Kadın Haklarının Gerekçelendirilmesi", Stock = 10, Price = 7, PageCount = 160, EditionYear = 2019, EditionNumber = 1, Url = "kadin-haklarinin-gerekcelendirilmesi" }
             );
         }
     }

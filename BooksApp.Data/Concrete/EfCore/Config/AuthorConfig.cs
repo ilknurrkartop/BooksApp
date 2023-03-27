@@ -21,12 +21,10 @@ namespace BooksApp.Data.Concrete.EfCore.Config
             builder.Property(x => x.Gender).IsRequired();
 
             builder.HasData(
-                new Author { Id = 1, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Orhan Parasaçan", Gender = "E", Url="orhan-parasacan" },
-                new Author { Id = 2, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Selami Gülgeçen", Gender = "E", Url="selami-gulgecen" },
-                new Author { Id = 3, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Seyhan Yolagelen", Gender = "E", Url="seyhan-yolagelen" },
-                new Author { Id = 4, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Hale Çokseven",  Gender = "E",Url="hale-cokseven" },
-                new Author { Id = 5, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Kemal Devabulan", Gender = "E",Url="kemal-devabulan" },
-                new Author { Id = 6, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Selen Günebakan", Gender = "E",Url="selen-gunebakan" }
+                new Author { Id = 1, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Andreas König", Gender = "E", Url = "andreas-konig" },
+                new Author { Id = 2, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Monica Murphy", Gender = "E", Url = "monica-murphy" },
+                new Author { Id = 3, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Prof. Dr. M. Hakan Türkçapar", Gender = "E", Url = "hakan-türkcapar" },
+                new Author { Id = 4, CreatedDate = DateTime.Now, ModifiedDate = DateTime.Now, IsApproved = true, Name = "Mary Wollstonecraft", Gender = "E", Url = "mary-wollstonecraft" }
             );
         }
     }

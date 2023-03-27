@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4YkItD75G21gYUGbwr1UaYDoHflj2u1TuQce6+0e0Eiln1nxDFa/MJCVUgw1FJS6qdYAE1e1SHw6TM4HXZlaqw==",
+  "dgSpecHash": "bOOKMjqBeGwRLiqZFCstIgKDRRqdBYnejmc2gFQp6Rj25vKyXeUs/JqC500cQyVbImeb0zVUt0ozBrKHNDPy1Q==",
   "success": true,
-  "projectFilePath": "C:\\Git\\ERP-7\\Week-11\\27-03-2023\\BooksApp\\BooksApp.Core\\BooksApp.Core.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\BooksApp\\BooksApp.Core\\BooksApp.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\SABAH\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
-    "C:\\Users\\SABAH\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
-    "C:\\Users\\SABAH\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\SABAH\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
   ],
   "logs": []
 }
